@@ -22,4 +22,4 @@ peg(halfdead).
 ```
 
 ## Credits
-Written by me (Joseph Gorospe) for my Functional Languages CPSC Class
+Written by me (Joseph Gorospe) for my rogramming Paradigms class.
