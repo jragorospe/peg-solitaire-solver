@@ -22,4 +22,4 @@ peg(halfdead).
 ```
 
 ## Credits
-Written by me (Joseph Gorospe) for my rogramming Paradigms class.
+Written by me (Joseph Gorospe) for my Programming Paradigms class.
