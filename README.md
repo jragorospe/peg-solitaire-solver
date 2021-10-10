@@ -20,6 +20,3 @@ peg(longbow).
 peg(notQuiteDead).
 peg(halfdead).
 ```
-
-## Credits
-Written by me (Joseph Gorospe) for my Programming Paradigms class.
